@@ -16,9 +16,11 @@ Welcome to the official GitHub repository of **IGNITE SVUCE** - a club dedicated
 
 We are always open to collaborations and partnerships that align with our mission. If you share our passion for fostering innovation and entrepreneurship, feel free to reach out!
 
-## 📫 How to Reach Us
+## 📫 How to Reach Us## 📫 How to Reach Us
 
-- **email**: [IGNITE SVUCE](ignite.svu.2k15@gmail.com)
+- **Website**: [IGNITE SVUCE](https://www.svuceignite.com/)
+- **Email**: [ignite.svu.2k15@gmail.com](mailto:ignite.svu.2k15@gmail.com)
+
 
 ## 😄 Pronouns
 
